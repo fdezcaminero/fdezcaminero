@@ -17,6 +17,10 @@ Here are some ideas to get you started:
 
 <img src='javascript.svg' alt='JavaScript'>
 
-### 
+### Stats
 
 [![Fernández-Caminero's GitHub stats](https://github-readme-stats.vercel.app/api?username=fdezcaminero)](https://github.com/anuraghazra/github-readme-stats)
+
+### Top languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fdezcaminero)](https://github.com/anuraghazra/github-readme-stats)
