@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **fdezcaminero/fdezcaminero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,6 +15,7 @@ Here are some ideas to get you started:
 
 <img src='https://cdn.jsdelivr.net/npm/@programming-languages-logos/html@0.0.1/html.svg' alt='HTML'>
 <img src='javascript.svg' alt='JavaScript'>
+<img src='https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/ruby/ruby.svg' alt='Ruby'>
 
 ### Stats
 
