@@ -16,3 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <img src='javascript.svg' alt='JavaScript'>
+
+### 
+
+[![Fernández-Caminero's GitHub stats](https://github-readme-stats.vercel.app/api?username=fdezcaminero)](https://github.com/anuraghazra/github-readme-stats)
