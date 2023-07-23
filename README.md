@@ -4,6 +4,8 @@
 <img src='https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/ruby/ruby.svg' alt='Ruby'>
 -->
 
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://github.com/get-icon/geticon/raw/master/icons/javascript.svg" alt="JavaScript" width="21px" height="21px"></a>
+
 ### Stats
 
 [![Fernández-Caminero's GitHub stats](https://github-readme-stats.vercel.app/api?username=fdezcaminero)](https://github.com/anuraghazra/github-readme-stats)
